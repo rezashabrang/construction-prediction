@@ -1,0 +1,25 @@
+ID
+Name
+Baseline Start
+Baseline End
+Duration
+Resource Demand
+Resource Cost
+Fixed Cost
+Cost/Hour
+Variable Cost
+Total Cost
+Actual Start
+Actual Duration
+PAC
+PRC
+Remaining Duration
+PAC Dev
+PRC Dev
+Actual Cost
+Remaining Cost
+Percentage Completed
+Tracking
+Earned Value (EV)
+Planned Value (PV)
+project_name
